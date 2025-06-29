@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+
+
 df_train=pd.read_csv('/content/train (3).csv')
 df_test=pd.read_csv('/content/test.csv')
 df_train
